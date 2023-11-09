@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Hiren,
 - 👀 I’m interested in AI/ML, NLP models.
-- 🌱 I’m currently learning basics of AI, NLP.
+- 🌱 I’m currently learning AI, NLP.
 
-- Under construction...more coming soon...
+- Under pipeline...building novel medicines takes time...but this will follow q exponential curve... 
+- more coming soon...
 
 <!---
 hiren-6/hiren-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
